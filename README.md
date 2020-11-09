@@ -25,7 +25,7 @@ Snake consiste en mover una serpiente para que coma una manzana, por cada manzan
 
 
 # Para jugarlo
-Descarga el repositorio y abre cualquier archivo, despues lo ejecutas y ya puedes jugar.
+Descarga el repositorio y abre cualquier archivo, despues lo ejecutas y ya puedes jugar. Tienes que tener instalado Processing en la versión más reciente si es posible.
 
 # Referencias
 El tetris esta bien comentado porque lo hice yo, pero Snake fue programado por Goel25 así que la documentación no es muy precisa, el repositorio de Snake de Goel25 es este: https://github.com/Goel25/SnakeGame
